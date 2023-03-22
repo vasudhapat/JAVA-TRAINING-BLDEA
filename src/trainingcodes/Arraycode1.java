@@ -1,7 +1,7 @@
 /**
  * 
  */
-package bldea_tiny;
+package trainingcodes;
 
 import java.util.Scanner;
 
